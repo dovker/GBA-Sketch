@@ -1,3 +1,5 @@
+![Title Image](https://img.itch.zone/aW1nLzU4MjE0NzMucG5n/original/17EjWv.png)
+
 # GBA-Sketch
 
 **GBA-Sketch** is a very simple drawing application made for a GBA Console, intended to be used for relaxation and playful purposes. It is not intended for any serious drawings, since the only way to erase your mistake is my clearing the whoe screen (as far as I know, there is no accellerometer, therefore shaking the screen is not possible)
